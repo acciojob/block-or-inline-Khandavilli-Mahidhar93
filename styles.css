@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 
 [data-ns-test^="block-inline-button"] {
-  display: inline-block;
+  display: inline;
   background-color: lightblue;
   border: none;
   padding: 5px;
@@ -33,7 +33,7 @@
 }
 
 [data-ns-test^="block-inline-input"] {
-  display: inline-block;
+  display: inline;
   background-color: lightcyan;
   border: 1px solid black;
   padding: 5px;
